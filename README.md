@@ -1,2 +1,2 @@
-# Ensemble_Classifiers_Soft_Hard_Majority_Voting
-This project focused on the performance metrics of two ensemble methods: Adboost and Majority Voting
+# Performance-Metric-Evaluation-of-Ensemble-Classifiers
+This project paper will compare and contrast the performance metrics and statistical inferences of two ensemble methods: Adboost and Majority Voting. An email messages data set of 4601 records with 57 attributes highlighting the frequency of specific keywords or characters was provided to evaluate the classification accuracies of the models to predict if a given email message was identified as spam or ham.
